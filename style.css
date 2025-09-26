@@ -6,7 +6,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url("/resources/gradient-bg.jpg");
+  background-image: url("resources/gradient-bg.jpg");
   background-size: cover;
   display: flex;
   justify-content: center;
