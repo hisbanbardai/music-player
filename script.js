@@ -2,12 +2,12 @@ const songs = [
   {
     name: "Lost in the City Lights",
     singer: "Cosmo Sheldrake",
-    source: "/resources/lost-in-city-lights-145038.mp3",
+    source: "resources/lost-in-city-lights-145038.mp3",
   },
   {
     name: "Forest Lullaby",
     singer: "Lesfm",
-    source: "/resources/forest-lullaby-110624.mp3",
+    source: "resources/forest-lullaby-110624.mp3",
   },
 ];
 
